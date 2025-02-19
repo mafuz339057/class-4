@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+   
+    padding: 30px 50px;
+    box-shadow: 0px 7px 10px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav img{}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+nav ul li{
+    margin: 0px 0px 0px 50px;
+}
+nav ul li a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 17px;
+    color: black;
+}
+.banner{
+    text-align: center;
+}
+.banner h1{
+    font-size: 70px;
+    
+    margin: 90px 0 0 0;
+}
+span{
+    color: blue;
+}
+.banner 
+.banner p{}
+
+.banner img{
+    font-size: 20px;
+}
